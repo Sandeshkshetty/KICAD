@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Q_PMOS_SQA403EJ
+D Automotive P-Channel  MOSFET
+K PMOS
+$ENDCMP
+#
+$CMP SQA403EJ
+D Automotive P-Channel  MOSFET
+K PMOS
+F http://www.vishay.com/docs/76242/sqa403ej.pdf
+$ENDCMP
+#
+#End Doc Library
